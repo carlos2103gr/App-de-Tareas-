@@ -1,0 +1,29 @@
+{
+  "tasks":[
+    {
+      "title": "tasks 1",
+      "responsable": "carlos",
+      "descripcion": "actividad 1",
+      "prioridad": "low"
+    },
+    {
+      "title": "tasks 2",
+      "responsable": "jose",
+      "descripcion": "actividad 2",
+      "prioridad": "medium"
+    },
+    {
+      "title": "tasks 3",
+      "responsable": "luis",
+      "descripcion": "actividad 3",
+      "prioridad": "high"
+    },
+    {
+      "title": "tasks 4",
+      "responsable": "ernesto",
+      "descripcion": "actividad 4",
+      "prioridad": "low"
+    }
+  ]
+
+}
